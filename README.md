@@ -1,4 +1,4 @@
- # One Month Rails
+  # One Month Rails
 
  This is the pint sample application
  (*one month rails*)(http://onemonthrails.com)
